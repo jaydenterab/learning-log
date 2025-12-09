@@ -17,3 +17,4 @@ Successful connection established between local terminal (using `aws configure`)
 
 ## Key Takeaway
 Managing resources via CLI is significantly faster than the Console. This is the foundation for scripting automation.
+*Note: Fixed git configuration.*
